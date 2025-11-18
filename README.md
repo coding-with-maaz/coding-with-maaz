@@ -1,100 +1,115 @@
-# 👋 Hi, I'm Muhammad Maaz
-
-
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=coding-with-maaz&color=blueviolet&style=flat-square)
+# 👋 Hi, I'm Muhammad Maaz
 
-**Passionate Full-Stack Developer | Mobile App Developer | Problem Solver**
+### **Passionate Full-Stack Developer | Mobile App Developer | Problem Solver**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-with-maaz)
+![Profile Views](https://komarev.com/ghpvc/?username=coding-with-maaz&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-with-maaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-with-maaz)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coding-with-maaz.github.io)
+
+---
+
+</div>
+
+## 🚀 About Me
+
+<div align="justify">
+
+I'm a passionate **Full-Stack Developer** and **Mobile App Developer** with expertise in building scalable web applications and high-quality mobile experiences. I specialize in creating efficient solutions using modern technologies and best practices. My focus is on delivering robust, maintainable code while continuously expanding my knowledge in emerging technologies.
+
+</div>
+
+<div align="left">
+
+### 💼 Current Focus
+- 🔭 **Working on**: ASIAN2DAY - A comprehensive streaming platform with Laravel backend, Node.js API, and Flutter mobile app
+- 🌱 **Learning**: Advanced Flutter architecture patterns and microservices architecture
+- 👯 **Open to**: Collaborating on open-source projects and innovative solutions
+
+### 💬 Expertise
+Ask me about **Laravel**, **Node.js**, **Flutter**, **React**, or **TypeScript**
+
+### 📫 Get in Touch
+[![GitHub](https://img.shields.io/badge/GitHub-Contact-181717?style=flat-square&logo=github)](https://github.com/coding-with-maaz)
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate developer who loves building scalable web applications and high-quality mobile experiences. I enjoy solving complex problems, crafting efficient solutions, and continuously learning new technologies to stay at the forefront of software development.
-
-- 🔭 Currently working on **ASIAN2DAY** - A comprehensive streaming platform with Laravel backend, Node.js API, and Flutter mobile app
-
-- 🌱 Learning advanced Flutter patterns and microservices architecture
-
-- 👯 Looking to collaborate on open-source projects
-
-- 💬 Ask me about **Laravel**, **Node.js**, **Flutter**, **React**, or **TypeScript**
-
-- 📫 How to reach me: [GitHub](https://github.com/coding-with-maaz)
-
----
-
 ## 🛠️ Tech Stack
 
-### **Frontend & Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & APIs**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
-
-### **Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![AdMob](https://img.shields.io/badge/AdMob-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+### **Frontend & Mobile Development**
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coding-with-maaz&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-with-maaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=coding-with-maaz&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+### **Backend & API Development**
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
+
+</div>
+
+### **Databases & Data Management**
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### **DevOps & Tools**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AdMob](https://img.shields.io/badge/AdMob-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coding-with-maaz&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-with-maaz&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=coding-with-maaz&theme=onedark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=coding-with-maaz&theme=github-dark&hide_border=true&area=true&height=300)
 
 </div>
 
@@ -102,167 +117,213 @@ I'm a passionate developer who loves building scalable web applications and high
 
 ## 🎯 Featured Projects
 
-### 🎬 ASIAN2DAY - Streaming Platform
+### 🎬 **ASIAN2DAY - Streaming Platform**
 
-**Full-Stack Streaming Application**
+<div align="justify">
 
-- **Tech Stack**: Laravel, Node.js, Flutter, MySQL
+**Full-Stack Streaming Application** | *In Development*
 
-- **Features**: 
+A comprehensive streaming platform featuring a robust backend infrastructure and cross-platform mobile experience.
 
-  - RESTful API with Laravel & Node.js
+**Tech Stack**: `Laravel` `Node.js` `Flutter` `MySQL`
 
-  - Cross-platform Flutter mobile app
+**Key Features**:
+- 🚀 RESTful API architecture with Laravel & Node.js
+- 📱 Cross-platform Flutter mobile application
+- ⚡ Real-time content streaming capabilities
+- 💬 User engagement features (comments & content requests)
+- 🔐 Comprehensive admin dashboard
 
-  - Real-time content streaming
+**Status**: 🚧 Active Development
 
-  - User comments & content requests
+</div>
 
-  - Admin dashboard
+---
 
-- **Status**: 🚧 In Development
+### 💼 **GREEN_JOBS**
 
-### 💼 GREEN_JOBS
+<div align="justify">
 
-**Job Portal Application**
+**Job Portal Application** | *Active*
 
-- **Tech Stack**: TypeScript, React
+A modern job portal application built with TypeScript and React, providing seamless job search and application management.
 
-- **Features**: Job listings, search, and application management
+**Tech Stack**: `TypeScript` `React`
 
-- **Status**: ✅ Active
+**Features**:
+- 🔍 Advanced job search and filtering
+- 📋 Application tracking and management
+- 👤 User profile management
+- 📊 Analytics dashboard
 
-### 📝 TODO_LIST_PY
+**Status**: ✅ Production Ready
 
-**Task Management Application**
+</div>
 
-- **Tech Stack**: Python
+---
 
-- **Features**: Simple and efficient task management
+### 📝 **TODO_LIST_PY**
 
-- **Status**: ✅ Complete
+<div align="justify">
 
-### 🎓 IELTS_MCQS
+**Task Management Application** | *Complete*
 
-**IELTS Practice Application**
+A simple yet powerful task management application built with Python, demonstrating clean code principles and efficient data handling.
 
-- **Tech Stack**: TypeScript
+**Tech Stack**: `Python`
 
-- **Features**: Multiple choice questions for IELTS preparation
+**Features**:
+- ✅ Task creation and management
+- 📅 Deadline tracking
+- 🏷️ Task categorization
+- 💾 Persistent data storage
 
-- **Status**: ✅ Active
+**Status**: ✅ Completed
 
-### 🔧 4mix-tools
+</div>
 
-**Developer Tools Collection**
+---
 
-- **Tech Stack**: JavaScript
+### 🎓 **IELTS_MCQS**
 
-- **Features**: Various utility tools for developers
+<div align="justify">
 
-- **Status**: ✅ Active
+**IELTS Practice Application** | *Active*
+
+An educational application designed to help users prepare for IELTS examinations through comprehensive multiple-choice question practice.
+
+**Tech Stack**: `TypeScript`
+
+**Features**:
+- 📚 Extensive question bank
+- 📊 Progress tracking
+- ⏱️ Timed practice sessions
+- 📈 Performance analytics
+
+**Status**: ✅ Active
+
+</div>
+
+---
+
+### 🔧 **4mix-tools**
+
+<div align="justify">
+
+**Developer Tools Collection** | *Active*
+
+A collection of utility tools designed to enhance developer productivity and streamline common development tasks.
+
+**Tech Stack**: `JavaScript`
+
+**Features**:
+- 🛠️ Multiple utility functions
+- 🔄 Code transformation tools
+- 📦 Package management helpers
+- ⚙️ Configuration generators
+
+**Status**: ✅ Active
+
+</div>
 
 ---
 
 ## 📈 Recent Activity
 
-<!--START_SECTION:activity-->
+<div align="left">
 
-1. 🔨 Working on ASIAN2DAY project - Full-stack streaming platform
+1. 🔨 **Working on ASIAN2DAY project** - Full-stack streaming platform development
+2. 🚀 **Building Flutter mobile applications** - Cross-platform mobile development
+3. 💻 **Developing RESTful APIs** - Laravel and Node.js backend services
+4. 🐛 **Code quality improvements** - Bug fixes and performance optimization
+5. 📚 **Continuous learning** - Exploring new technologies and best practices
 
-2. 🚀 Building Flutter mobile applications
-
-3. 💻 Developing RESTful APIs with Laravel and Node.js
-
-4. 🐛 Fixing bugs and improving code quality
-
-5. 📚 Learning new technologies and best practices
-
-<!--END_SECTION:activity-->
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Professional Achievements
 
-- ✅ Built multiple full-stack applications
+<div align="left">
 
-- ✅ Developed cross-platform mobile apps with Flutter
+- ✅ **Full-Stack Development**: Built multiple scalable web applications from concept to deployment
+- ✅ **Mobile Development**: Developed cross-platform mobile apps with Flutter
+- ✅ **API Architecture**: Created robust and scalable RESTful APIs
+- ✅ **Real-Time Features**: Implemented real-time functionality and streaming capabilities
+- ✅ **Open Source**: Active contributor to open-source projects
 
-- ✅ Created scalable RESTful APIs
-
-- ✅ Implemented real-time features and streaming capabilities
-
-- ✅ Contributed to open-source projects
+</div>
 
 ---
 
-## 📚 Learning Path
+## 📚 Continuous Learning
 
-- 🔄 **Currently Learning**: 
+<div align="left">
 
-  - Advanced Flutter architecture patterns
+### 🔄 **Currently Learning**
 
-  - Microservices architecture
+- Advanced Flutter architecture patterns (BLoC, Provider, Riverpod)
+- Microservices architecture and design patterns
+- Cloud deployment strategies (AWS, Azure, GCP)
+- Performance optimization techniques
 
-  - Cloud deployment strategies
+### 📖 **Future Learning Goals**
 
-  
+- Kubernetes orchestration and container management
+- GraphQL API development
+- Machine Learning fundamentals
+- Advanced DevOps practices
 
-- 📖 **Want to Learn**:
-
-  - Kubernetes
-
-  - GraphQL
-
-  - Machine Learning basics
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on interesting projects or discussing new ideas!
-
-- 💼 **Portfolio**: [Coming Soon]
-
-- 📧 **Email**: [Your Email]
-
-- 💬 **Discord**: [Your Discord]
-
-- 🐦 **Twitter**: [Your Twitter]
-
----
-
-## 💡 Fun Facts
-
-- ⚡ I love solving complex problems
-
-- 🎨 I enjoy creating beautiful and intuitive user interfaces
-
-- 📱 Mobile-first development enthusiast
-
-- 🌱 Always learning and improving
-
-- ☕ Coffee fuels my coding sessions ☕
-
----
-
 <div align="center">
 
-### ⭐️ If you like my work, consider giving it a star! ⭐️
+I'm always open to collaborating on interesting projects, discussing new ideas, or connecting with fellow developers!
 
-**Thanks for visiting! Have a great day! 😊**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-with-maaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-with-maaz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coding-with-maaz.github.io)
 
-![Visitor Count](https://profile-counter.glitch.me/coding-with-maaz/count.svg)
+**Contact Information**:
+- 💼 **Portfolio**: [Coming Soon]
+- 📧 **Email**: [Your Email]
+- 💬 **Discord**: [Your Discord]
+- 🐦 **Twitter**: [Your Twitter]
+
+</div>
+
+---
+
+## 💡 Professional Insights
+
+<div align="left">
+
+- ⚡ **Problem Solving**: Passionate about tackling complex technical challenges
+- 🎨 **UI/UX Focus**: Committed to creating beautiful and intuitive user interfaces
+- 📱 **Mobile-First**: Strong advocate for mobile-first development approaches
+- 🌱 **Growth Mindset**: Continuously learning and adapting to new technologies
+- ☕ **Productivity**: Coffee-fueled coding sessions for optimal performance
 
 </div>
 
 ---
 
 <div align="center">
+
+### ⭐️ If you find my work interesting, consider giving it a star! ⭐️
+
+**Thank you for visiting my profile! Feel free to reach out for collaboration opportunities.**
+
+![Visitor Count](https://profile-counter.glitch.me/coding-with-maaz/count.svg)
+
+---
 
 **Made with ❤️ by [Muhammad Maaz](https://github.com/coding-with-maaz)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-coding--with--maaz-181717?style=flat-square&logo=github)](https://github.com/coding-with-maaz)
 
 </div>
-
