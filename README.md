@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 # 👋 Hi, I'm Muhammad Maaz
 
 ### **Passionate Full-Stack Developer | Mobile App Developer | Problem Solver**
@@ -7,9 +9,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=coding-with-maaz&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-with-maaz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-with-maaz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drtoolofficial@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coding-with-maaz.github.io)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamamdmaaz65@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammad-maaz-jet.vercel.app)
 
 ---
 
@@ -26,14 +29,19 @@ I'm a passionate **Full-Stack Developer** and **Mobile App Developer** with expe
 <div align="left">
 
 ### 💼 Current Focus
+
 - 🔭 **Working on**: ASIAN2DAY - A comprehensive streaming platform with Laravel backend, Node.js API, and Flutter mobile app
+
 - 🌱 **Learning**: Advanced Flutter architecture patterns and microservices architecture
+
 - 👯 **Open to**: Collaborating on open-source projects and innovative solutions
 
 ### 💬 Expertise
+
 Ask me about **Laravel**, **Node.js**, **Flutter**, **React**, or **TypeScript**
 
 ### 📫 Get in Touch
+
 [![GitHub](https://img.shields.io/badge/GitHub-Contact-181717?style=flat-square&logo=github)](https://github.com/coding-with-maaz)
 
 </div>
@@ -47,11 +55,17 @@ Ask me about **Laravel**, **Node.js**, **Flutter**, **React**, or **TypeScript**
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
@@ -61,9 +75,13 @@ Ask me about **Laravel**, **Node.js**, **Flutter**, **React**, or **TypeScript**
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
 
 </div>
@@ -73,7 +91,9 @@ Ask me about **Laravel**, **Node.js**, **Flutter**, **React**, or **TypeScript**
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
@@ -83,9 +103,13 @@ Ask me about **Laravel**, **Node.js**, **Flutter**, **React**, or **TypeScript**
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![AdMob](https://img.shields.io/badge/AdMob-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
@@ -122,84 +146,83 @@ Ask me about **Laravel**, **Node.js**, **Flutter**, **React**, or **TypeScript**
 
 <div align="justify">
 
-**Full-Stack Streaming Application** | *In Development*
+**Full-Stack Streaming Application** | *Production*
 
 A comprehensive streaming platform featuring a robust backend infrastructure and cross-platform mobile experience.
 
 **Tech Stack**: `Laravel` `Node.js` `Flutter` `MySQL`
 
 **Key Features**:
+
 - 🚀 RESTful API architecture with Laravel & Node.js
+
 - 📱 Cross-platform Flutter mobile application
+
 - ⚡ Real-time content streaming capabilities
+
 - 💬 User engagement features (comments & content requests)
+
 - 🔐 Comprehensive admin dashboard
 
-**Status**: 🚧 Active Development
+**🔗 Links**: [GitHub](https://github.com/coding-with-maaz/NETFLEX_CLONE) | [Live Demo](https://nazaarabox.com)
+
+**Status**: ✅ Production
 
 </div>
 
 ---
 
-### 💼 **GREEN_JOBS**
+### 💼 **Medzfitt E-commerce**
 
 <div align="justify">
 
-**Job Portal Application** | *Active*
+**E-commerce Platform** | *Production*
 
-A modern job portal application built with TypeScript and React, providing seamless job search and application management.
+A complete Laravel-based e-commerce platform for medical wear and scrubs with comprehensive product management and admin dashboard.
 
-**Tech Stack**: `TypeScript` `React`
+**Tech Stack**: `Laravel` `PHP` `MySQL` `Tailwind CSS`
 
 **Features**:
-- 🔍 Advanced job search and filtering
-- 📋 Application tracking and management
-- 👤 User profile management
-- 📊 Analytics dashboard
 
-**Status**: ✅ Production Ready
+- 🛒 Shopping cart functionality
+
+- 📦 Product management with variants
+
+- 👤 User authentication and orders
+
+- ⭐ Product reviews and ratings
+
+- 📊 Admin dashboard
+
+**🔗 Links**: [GitHub](https://github.com/coding-with-maaz/Ecomerce_Store) | [Live Demo](https://medzfitt.com)
+
+**Status**: ✅ Production
 
 </div>
 
 ---
 
-### 📝 **TODO_LIST_PY**
+### 🤖 **TAGIQ - AI Keyword Generator**
 
 <div align="justify">
 
-**Task Management Application** | *Complete*
+**AI Keyword & Hashtag Generator** | *Active*
 
-A simple yet powerful task management application built with Python, demonstrating clean code principles and efficient data handling.
+Intelligent keyword and hashtag generator tool that scrapes trending keywords from Google, YouTube, TikTok, Bing, and Amazon.
 
-**Tech Stack**: `Python`
-
-**Features**:
-- ✅ Task creation and management
-- 📅 Deadline tracking
-- 🏷️ Task categorization
-- 💾 Persistent data storage
-
-**Status**: ✅ Completed
-
-</div>
-
----
-
-### 🎓 **IELTS_MCQS**
-
-<div align="justify">
-
-**IELTS Practice Application** | *Active*
-
-An educational application designed to help users prepare for IELTS examinations through comprehensive multiple-choice question practice.
-
-**Tech Stack**: `TypeScript`
+**Tech Stack**: `Node.js` `Express` `Puppeteer` `Flutter` `TypeScript`
 
 **Features**:
-- 📚 Extensive question bank
-- 📊 Progress tracking
-- ⏱️ Timed practice sessions
-- 📈 Performance analytics
+
+- 🔍 Multi-platform keyword scraping
+
+- 📊 Trending keyword analysis
+
+- 🎯 Hashtag generation
+
+- 📱 Flutter mobile app support
+
+**🔗 Links**: [GitHub](https://github.com/coding-with-maaz/_TAGIQ_)
 
 **Status**: ✅ Active
 
@@ -207,21 +230,27 @@ An educational application designed to help users prepare for IELTS examinations
 
 ---
 
-### 🔧 **4mix-tools**
+### 📱 **Flutter Ads Pro**
 
 <div align="justify">
 
-**Developer Tools Collection** | *Active*
+**Flutter Ads Integration Package** | *Active*
 
-A collection of utility tools designed to enhance developer productivity and streamline common development tasks.
+Comprehensive Flutter ads integration package with easy-to-reuse setup for all major ad networks, supporting multiple platforms.
 
-**Tech Stack**: `JavaScript`
+**Tech Stack**: `Flutter` `Dart` `Android` `iOS`
 
 **Features**:
-- 🛠️ Multiple utility functions
-- 🔄 Code transformation tools
-- 📦 Package management helpers
-- ⚙️ Configuration generators
+
+- 🎯 Easy-to-reuse ads setup
+
+- 📱 Multi-platform support (Android, iOS, Web, Desktop)
+
+- 🔧 Simplified configuration
+
+- 📦 All major ad networks support
+
+**🔗 Links**: [GitHub](https://github.com/coding-with-maaz/FLUTTER-_ADS)
 
 **Status**: ✅ Active
 
@@ -234,9 +263,13 @@ A collection of utility tools designed to enhance developer productivity and str
 <div align="left">
 
 1. 🔨 **Working on ASIAN2DAY project** - Full-stack streaming platform development
+
 2. 🚀 **Building Flutter mobile applications** - Cross-platform mobile development
+
 3. 💻 **Developing RESTful APIs** - Laravel and Node.js backend services
+
 4. 🐛 **Code quality improvements** - Bug fixes and performance optimization
+
 5. 📚 **Continuous learning** - Exploring new technologies and best practices
 
 </div>
@@ -248,9 +281,13 @@ A collection of utility tools designed to enhance developer productivity and str
 <div align="left">
 
 - ✅ **Full-Stack Development**: Built multiple scalable web applications from concept to deployment
+
 - ✅ **Mobile Development**: Developed cross-platform mobile apps with Flutter
+
 - ✅ **API Architecture**: Created robust and scalable RESTful APIs
+
 - ✅ **Real-Time Features**: Implemented real-time functionality and streaming capabilities
+
 - ✅ **Open Source**: Active contributor to open-source projects
 
 </div>
@@ -264,15 +301,21 @@ A collection of utility tools designed to enhance developer productivity and str
 ### 🔄 **Currently Learning**
 
 - Advanced Flutter architecture patterns (BLoC, Provider, Riverpod)
+
 - Microservices architecture and design patterns
+
 - Cloud deployment strategies (AWS, Azure, GCP)
+
 - Performance optimization techniques
 
 ### 📖 **Future Learning Goals**
 
 - Kubernetes orchestration and container management
+
 - GraphQL API development
+
 - Machine Learning fundamentals
+
 - Advanced DevOps practices
 
 </div>
@@ -290,27 +333,41 @@ A collection of utility tools designed to enhance developer productivity and str
 ### **Connect with me:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-with-maaz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-with-maaz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drtoolofficial@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coding-with-maaz.github.io)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamamdmaaz65@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammad-maaz-jet.vercel.app)
 
 ---
 
 ### **📬 Contact Information**
 
 <table align="center">
+
 <tr>
+
 <td align="center">
+
 <strong>💼 Portfolio</strong>
+
 <br/>
-<sub>Coming Soon</sub>
+
+<a href="https://muhammad-maaz-jet.vercel.app">muhammad-maaz-jet.vercel.app</a>
+
 </td>
+
 <td align="center">
+
 <strong>📧 Email</strong>
+
 <br/>
-<a href="mailto:drtoolofficial@gmail.com">drtoolofficial@gmail.com</a>
+
+<a href="mailto:muhamamdmaaz65@gmail.com">muhamamdmaaz65@gmail.com</a>
+
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -324,9 +381,13 @@ A collection of utility tools designed to enhance developer productivity and str
 <div align="left">
 
 - ⚡ **Problem Solving**: Passionate about tackling complex technical challenges
+
 - 🎨 **UI/UX Focus**: Committed to creating beautiful and intuitive user interfaces
+
 - 📱 **Mobile-First**: Strong advocate for mobile-first development approaches
+
 - 🌱 **Growth Mindset**: Continuously learning and adapting to new technologies
+
 - ☕ **Productivity**: Coffee-fueled coding sessions for optimal performance
 
 </div>
@@ -347,4 +408,7 @@ A collection of utility tools designed to enhance developer productivity and str
 
 [![GitHub](https://img.shields.io/badge/GitHub-coding--with--maaz-181717?style=flat-square&logo=github)](https://github.com/coding-with-maaz)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome)](https://muhammad-maaz-jet.vercel.app)
+
 </div>
+
