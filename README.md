@@ -90,7 +90,7 @@ I'm a passionate developer who loves building scalable web applications and high
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coding-with-maaz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coding-with-maaz&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-with-maaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
 
