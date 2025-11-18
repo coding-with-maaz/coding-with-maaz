@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-with-maaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-with-maaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drtoolofficial@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coding-with-maaz.github.io)
 
 ---
@@ -282,17 +283,37 @@ A collection of utility tools designed to enhance developer productivity and str
 
 <div align="center">
 
-I'm always open to collaborating on interesting projects, discussing new ideas, or connecting with fellow developers!
+### **I'm always open to collaborating on interesting projects, discussing new ideas, or connecting with fellow developers!**
+
+---
+
+### **Connect with me:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-with-maaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-with-maaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drtoolofficial@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coding-with-maaz.github.io)
 
-**Contact Information**:
-- 💼 **Portfolio**: [Coming Soon]
-- 📧 **Email**: [Your Email]
-- 💬 **Discord**: [Your Discord]
-- 🐦 **Twitter**: [Your Twitter]
+---
+
+### **📬 Contact Information**
+
+<table align="center">
+<tr>
+<td align="center">
+<strong>💼 Portfolio</strong>
+<br/>
+<sub>Coming Soon</sub>
+</td>
+<td align="center">
+<strong>📧 Email</strong>
+<br/>
+<a href="mailto:drtoolofficial@gmail.com">drtoolofficial@gmail.com</a>
+</td>
+</tr>
+</table>
+
+---
 
 </div>
 
